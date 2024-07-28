@@ -5,6 +5,10 @@ GabriellyCardoso1/GabriellyCardoso1 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<div>
+  <img align="center" alt="Gaby-capa" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266973582861275196/Screenshot_20240727-074156_Instagram.jpg?ex=66a71899&is=66a5c719&hm=00a422190683ddf8260fb2c3a25172d7d25ceb0dff639062af24170e1b1f4973&">
+</div>
+
 ## 👋 Hi, I’m @GabriellyCardoso1
 - 👀 I’m interested in learn and have a career as DEV
 - 🌱 I’m currently learning basic programation skills
