@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <img align="center" alt="Gaby-capa" height="80" width="1500" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266973582861275196/Screenshot_20240727-074156_Instagram.jpg?ex=66a71899&is=66a5c719&hm=00a422190683ddf8260fb2c3a25172d7d25ceb0dff639062af24170e1b1f4973&">
+  <img align="center" alt="Gaby-capa" height="300" width="1500" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266973582861275196/Screenshot_20240727-074156_Instagram.jpg?ex=66a71899&is=66a5c719&hm=00a422190683ddf8260fb2c3a25172d7d25ceb0dff639062af24170e1b1f4973&">
 </div>
 
 ## 👋 Hi, I’m @GabriellyCardoso1
